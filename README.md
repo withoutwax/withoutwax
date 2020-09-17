@@ -5,9 +5,9 @@
 
 ## Story 💬
 
-In 2012, I joined School of the Art Institute of Chicago 🎨, hoping to become a designer 👓. My dream was to become a person who build and make products that people use. I loved the art of craft and deeply motivated in creating new things. However I had to pause the study temporarily due to my mandatory military service 🎖.  
-In 2016, I completed my military service and returned back to school. I coincidentally saw a class called "Object Oriented Programming" and took the class. The class changed my life. Since then I started to teach myself more deeply into the field of programming 💻.  
-In 2019, I got my first internship as a developer 🎉, and now working full time as a developer 👨🏻‍💻.
+- In 2012, I joined School of the Art Institute of Chicago 🎨, hoping to become a designer 👓. My dream was to become a person who build and make products that people use. I loved the art of craft and deeply motivated in creating new things. However I had to pause the study temporarily due to my mandatory military service 🎖.  
+- In 2016, I completed my military service and returned back to school. I coincidentally saw a class called "Object Oriented Programming" and took the class. The class changed my life. Since then I started to teach myself more deeply into the field of programming 💻.  
+- In 2019, I got my first internship as a developer 🎉, and now working full time as a developer 👨🏻‍💻.
 
 ## Inspiration 💡
 
