@@ -1,7 +1,7 @@
 ## Intro 👋🏼
 
 **Will Kim**  
-👨🏻‍💻 Front-End • Web Technology • JavaScript, React and TypeScript • Occasionally, PHP, Python, Swift • 🇰🇷
+👨🏻‍💻 Full Stack • Web & Mobile Technology • JavaScript, Next.js, React and TypeScript, React Native • PHP, Laravel • Occasionally, Python • 🇰🇷
 
 ## Story 💬
 
