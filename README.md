@@ -1,9 +1,9 @@
 ## Intro 👋🏼
 
 **Will Kim**  
-👨🏻‍💻 Full Stack • Web & Mobile Technology • Occasionally, Python • 🇰🇷 
-🌐 Front-End: JavaScript, Next.js, React and TypeScript • React Native 
-💽 Back-End: PHP, Laravel 
+👨🏻‍💻 Full Stack • Web & Mobile Technology • Occasionally, Python • 🇰🇷  
+🌐 Front-End: JavaScript, Next.js, React and TypeScript • React Native  
+💽 Back-End: PHP, Laravel  
 
 ## Story 💬
 
