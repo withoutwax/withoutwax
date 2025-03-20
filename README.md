@@ -3,7 +3,7 @@
 **Will Kim**  
 👨🏻‍💻 Full Stack • Web & Mobile Technology • Occasionally, Python • 🇰🇷  
 🌐 Front-End: JavaScript, Next.js, React and TypeScript • React Native  
-💽 Back-End: PHP, Laravel  
+💽 Back-End: PHP, Laravel, Ruby, Ruby on Rails  
 
 ## Story 💬
 
