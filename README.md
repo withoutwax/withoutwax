@@ -1,9 +1,9 @@
 ## Intro 👋🏼
 
 **Will Kim**  
-👨🏻‍💻 Full Stack • IoT • Physical AI • Mobility • Web & Mobile Technology • Occasionally Python • 🇰🇷  
+👨🏻‍💻 Full Stack • IoT • Physical AI • Mobility • Web & Mobile Technology • 🇰🇷  
 🌐 Front-End: JavaScript, Next.js, React and TypeScript • React Native  
-💽 Back-End: PHP, Laravel, Ruby, Ruby on Rails, Java, Spring Boot, Kotlin
+💽 Back-End: Java, Spring Boot, Kotlin, Ruby, Ruby on Rails, PHP, Laravel
 
 ## Story 💬
 
